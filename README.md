@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on open‑source web development projects</br>
 - 🤔 I’m looking for help with advanced React patterns and Docker setups</br>
 - 💬 Ask me about PHP, Laravel, REST APIs, or beginner‑friendly React tips</br>
-- 📫 How to reach me: [zubayeribnhumayun@gmail.com](mailto:zubayeribnhumayun@gmail.com)</br>
+- 📫 How to reach me: [zubayerkabir19.6@gmail.com](mailto:zubayerkabir19.6@gmail.com)</br>
 - 😄 Pronouns: He/Him</br>
 - ⚡ Fun fact: I love anime and music 🎬✨
 
