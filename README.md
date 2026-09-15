@@ -1,12 +1,11 @@
 ## Hi, I'm Zubayer 👋
 
 - 🔭 I’m currently working on building Laravel APIs and React projects for my portfolio</br>
-- 🌱 I’m currently learning full‑stack development (Laravel, React, Docker)</br>
+- 🌱 I’m currently learning full‑stack development (Laravel, React, SQL)</br>
 - 👯 I’m looking to collaborate on open‑source web development projects</br>
-- 🤔 I’m looking for help with advanced React patterns and Docker setups</br>
+- 🤔 I’m looking for help with advanced React patterns </br>
 - 💬 Ask me about PHP, Laravel, REST APIs, or beginner‑friendly React tips</br>
 - 📫 How to reach me: [zubayerkabir19.6@gmail.com](mailto:zubayerkabir19.6@gmail.com)</br>
-- 😄 Pronouns: He/Him</br>
 - ⚡ Fun fact: I love anime and music 🎬✨
 
 
